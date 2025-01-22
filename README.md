@@ -21,7 +21,7 @@ pip install -r requirements.txt
 python train_cifar10_model.py
 ```
 ## Folder Structure
-It shoud look like this
+It should look like this
 ```arduino
 cifar10-image-classification/
 │
